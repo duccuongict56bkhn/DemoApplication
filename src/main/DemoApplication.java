@@ -15,5 +15,9 @@ public class DemoApplication {
     public static void main(String[] args) {
         
         System.out.println(MY_CONSTANT);
+        
+        // A new line of code for testing Git branch
+        String str = "Hello Github!";
+        System.out.println(str);
     }
 }
